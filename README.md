@@ -4,7 +4,7 @@ Eye Diseases Analysis
 ## Scope:
 Project could focus on datasets related to various eye diseases, their prevalence in different demographics, causes, symptoms, and treatments. This could include data from various research studies, hospitals, and health organizations.
 
-## Example Project:
+## Project:
 "Prevalence and Risk Factors of Glaucoma: An Analysis of Global Data"
 
 ## Introduction/Context: 
